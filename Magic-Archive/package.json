@@ -1,0 +1,24 @@
+{
+  "name": "magic-archive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erdioner/Magic-Archive.git"
+  },
+  "author": "Erdioner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erdioner/Magic-Archive/issues"
+  },
+  "homepage": "https://github.com/Erdioner/Magic-Archive#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
